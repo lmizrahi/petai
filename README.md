@@ -2,7 +2,7 @@
 Probabilistic, Epidemic-Type Aftershock Incompleteness (PETAI)
 
 
-We will make available the inversion and simulation code for the PETAI method described in<br/>
+We will make available the inversion and simulation Python code for the PETAI method described in<br/>
 
 Mizrahi, L., Nandan, S. and Wiemer, S., 2021. <br/>
 Embracing Data Incompleteness for Better Earthquake Forecasting. <br/>
