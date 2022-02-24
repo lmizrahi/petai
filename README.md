@@ -20,7 +20,7 @@ In case of questions or comments, contact me: leila.mizrahi@sed.ethz.ch.
 * simulation.py: Catalog simulation given ETAS parameters and estimated incompleteness.
 * data/synthetic_catalog.csv: example synthetic catalog.
 * invert_petai.py: run example PETAI inversion on data/synthetic_catalog.csv.
-* simulate_catalog.py: simulate one example catalog continuation of data/synthetic_catalog.csv, using the parameters and incompleteness estimated when running invert_petai.py.
+* simulate_catalog_continuation.py: simulate one example catalog continuation of data/synthetic_catalog.csv, using the parameters and incompleteness estimated when running invert_petai.py.
 
 
 Just in case, here is my pip freeze:<br/>
